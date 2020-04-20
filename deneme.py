@@ -28,3 +28,5 @@ for i in dene2:
             sc("rubynedir.mp3")
         if i == liste == [2]:
             sc ("java.mp3")
+        else:
+            sc ("bilmiyorum.mp3")
